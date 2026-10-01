@@ -1,0 +1,11 @@
+nilearn
+nibabel
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+pybids
+streamlit
